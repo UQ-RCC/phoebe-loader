@@ -1,0 +1,4 @@
+build/
+nbproject/private/
+**/properties.xml
+**/exec.pbs*
